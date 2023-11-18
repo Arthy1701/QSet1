@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Question set 1\Question set 1\bin\Debug\Question set 1.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 1\Question set 1\bin\Debug\Question set 1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 1\Question set 1\bin\Debug\Question set 1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 1\Question set 1\obj\Debug\Question set 1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 1\Question set 1\obj\Debug\Question set 1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Question set 1\Question set 1\obj\Debug\Question set 1.pdb
