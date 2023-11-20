@@ -15,7 +15,9 @@ namespace Question_set_1
         static void set1_Q1()
         {
             //write a program to display the sum,difference,and their product...
+            Console.WriteLine("Enter the Number1");
             int number1 = 5;
+            Console.WriteLine("Enter the Number2");
             int number2 = 5;
             int sumoftwonumbers = (number1 + number2);
             Console.WriteLine(sumoftwonumbers);
